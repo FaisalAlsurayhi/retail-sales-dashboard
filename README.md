@@ -32,7 +32,7 @@ the year, which is a healthy sign for the business.
 ## Related Portfolio Work
 
 - [Power BI Portfolio](https://github.com/FaisalAlsurayhi/powerbi-portfolio)
-- [Sahel Bank Khobar Dashboard](https://github.com/FaisalAlsurayhi/-Sahel-Bank-Khobar-2024-Dashboard)
+- [Sahel Bank Khobar Dashboard](https://github.com/FaisalAlsurayhi/sahel-bank-khobar-dashboard)
 - [Nitaqat Workforce SQL Analysis](https://github.com/FaisalAlsurayhi/nitaqat-workforce-sql)
 
 ## Author
