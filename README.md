@@ -4,15 +4,19 @@ I built this Excel dashboard to practice turning raw sales data into
 something a manager could actually use. The dataset covers 12 months 
 of mock retail transactions for a branch in Al-Khobar.
 
+## Why I Built This
+
+This was one of my earlier dashboard projects. I wanted to practice building a simple manager-facing report with KPIs, formulas, and charts instead of just storing data in a spreadsheet.
+
 ## What's inside
 
-The workbook has two sheets. The first holds the raw data — monthly 
+The workbook has two sheets. The first holds the raw data: monthly 
 revenue, units sold, returns, and net revenue, all linked with formulas 
 so nothing is hardcoded. The second is the dashboard: four KPI cards 
 pulling live from the data sheet, a bar chart for monthly revenue, and 
 a line chart tracking net revenue across the year.
 
-![Dashboard Preview](dashboard_preview.png)
+Open `retail_sales_dashboard.xlsx` to view the dashboard.
 
 ## Key findings
 
@@ -23,7 +27,13 @@ the year, which is a healthy sign for the business.
 ## Tools used
 
 - Microsoft Excel
-- openpyxl (Python) — used to generate the workbook programmatically
+- openpyxl (Python), used to generate the workbook programmatically
+
+## Related Portfolio Work
+
+- [Power BI Portfolio](https://github.com/FaisalAlsurayhi/powerbi-portfolio)
+- [Sahel Bank Khobar Dashboard](https://github.com/FaisalAlsurayhi/-Sahel-Bank-Khobar-2024-Dashboard)
+- [Nitaqat Workforce SQL Analysis](https://github.com/FaisalAlsurayhi/nitaqat-workforce-sql)
 
 ## Author
 
